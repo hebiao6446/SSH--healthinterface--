@@ -26,5 +26,11 @@ IP地址+端口号+项目名称+Other!+方法名.action
 IP地址+端口号+项目名称+Your!+方法名.action 
 
 
+将字母边小写，为什么？问度娘
+
 
 http://192.168.1.111:8080/healthinterface/user!loadBootpageInfo.action
+
+http://192.168.1.111:8080/healthinterface/other!loadBootpageInfo.action
+
+http://192.168.1.111:8080/healthinterface/your!loadBootpageInfo.action
